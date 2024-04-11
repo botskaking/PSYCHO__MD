@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+PSYCHO-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PSYCHO_BABA;RELEASED+DATE+13%2F04%2F2024." alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/3972e895b6935c7d61abe.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/3972e895b6935c7d61abe.jpg" width="600" height="600"/>
 </p>
 <p align="center">
 
