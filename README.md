@@ -16,6 +16,23 @@
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+
+
+[`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
+
+[`Deploy on Koyeb`](https://app.koyeb.com/)
+
+[`Deploy on Mogenius`](https://studio.mogenius.com/)
+
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
+
+[`Deploy on Replit`](https://replit.com)
+
+[`Deploy on Uffizzi`](https://www.uffizzi.com/)
+</details>
+
 
 **`PSYCHO 𝗠𝗗 𝗕𝗢𝗧`**
 
