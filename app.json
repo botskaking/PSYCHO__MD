@@ -1,0 +1,40 @@
+{
+  "name": "𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫",
+  "description": "𝙿𝙾𝚆𝙴𝚁𝙳   𝙱𝚈  𝙿𝚂𝚈𝙲𝙷𝙾_𝙱𝙰𝙱𝙰    ˣˣˣ",
+  "logo": "https://telegra.ph/file/3972e895b6935c7d61abe.jpg",
+  "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "PASSWORD": {
+      "description": "Enter a password of your choice here",
+      "required": true
+    },
+
+    "SESSION_ID": {
+      "description": "Enter session-id here",
+      "required": false
+    },
+    
+    "GITHUB_USERNAME": {
+      "description": "Put your github username here.",
+      "required": true
+    },
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github auth-token here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
+}
