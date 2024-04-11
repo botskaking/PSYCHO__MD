@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://telegra.ph/file/3972e895b6935c7d61abe.jpg" width="540" height="320" />
+<img src="https://telegra.ph/file/3972e895b6935c7d61abe.jpg" width="580" height="320" />
 </p>         ⚔ PSYCHO_MD ⚔
 
 ### Setup
