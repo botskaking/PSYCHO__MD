@@ -76,19 +76,19 @@ global.owner = ['94775341543']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙿𝙾𝚆𝙴𝚁𝙳   𝙱𝚈  𝙿𝚂𝚈𝙲𝙷𝙾_𝙱𝙰𝙱𝙰   ˣˣˣ'
 //👇 Your Bot Name
-global.botnma =  '𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫' 
+global.botnma =  'ᴩꜱʏᴄʜᴏ 𝘔𝘋 🚫' 
 //👇 Your name
 global.ownernma =  '𝕄ℝ.  ᴩꜱʏᴄʜᴏ ˣˣˣ' 
 //👇 Sticker Author Name
-global.packname =  '𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫' 
+global.packname =  'ᴩꜱʏᴄʜᴏ 𝘔𝘋 🚫' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK  BY 𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫!!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫```' 
+global.SONG_DOWN = '```⬇️ Downloading Your Song...ᴩꜱʏᴄʜᴏ 𝘔𝘋 🚫```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...𝘗𝘚𝘠𝘊𝘏𝘖 𝘔𝘋 🚫```'
+global.SONG_UP = '```⬆️ Uploding Your Song...ᴩꜱʏᴄʜᴏ 𝘔𝘋 🚫```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '🚫'
 //👇 Your time zone ( use correct time zone )
